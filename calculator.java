@@ -1,5 +1,6 @@
 // This is a comment
 // The second comment, denoting the changes
+// The third comment through terminal
 
 public class Calculator {
 
