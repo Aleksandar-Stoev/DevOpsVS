@@ -2,6 +2,7 @@
 // The second comment, denoting the changes
 // The third comment through terminal
 // after deleting
+// with terminal
 
 public class Calculator {
 
