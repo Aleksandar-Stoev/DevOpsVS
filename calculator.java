@@ -11,6 +11,7 @@ public class Calculator {
         return a + b;
     }
 
+    // comment from user 1
     public int subtract(int a, int b) {
         return a - b;
     }
