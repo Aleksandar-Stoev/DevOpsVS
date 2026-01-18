@@ -13,6 +13,7 @@ public class Calculator {
 
     // comment from user2
     // comment from user 1
+    //change to show the synchronize changes button in VS
     public int subtract(int a, int b) {
         return a - b;
     }
