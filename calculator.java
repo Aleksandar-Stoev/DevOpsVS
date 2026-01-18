@@ -18,6 +18,7 @@ public class Calculator {
         return a - b;
     }
 
+    //change for fix from IDE
     public int multiply(int a, int b) {
         return a * b;
     }
