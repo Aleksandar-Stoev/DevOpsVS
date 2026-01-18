@@ -3,6 +3,7 @@
 // The third comment through terminal
 // after deleting
 // with terminal
+// the change for training the conflicts
 
 public class Calculator {
 
